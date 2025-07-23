@@ -1,2 +1,2 @@
 gradio
-fastai 
+fastai<2.8.0 
